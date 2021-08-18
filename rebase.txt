@@ -1,1 +1,1 @@
-this is a text which is edited in main.
+this is a text which is edited in the fixed main.
