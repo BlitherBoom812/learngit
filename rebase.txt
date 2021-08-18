@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a text which is edited in the fixed main.
+=======
+This is a text which is edited in dev1.
+>>>>>>> 8260d10 (add rebase to dev1)
